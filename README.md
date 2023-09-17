@@ -4,6 +4,7 @@
 **fakrulalamsumon/fakrulalamsumon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on coding.
 - 🌱 I’m currently learning coding.
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: GitHub @fakrulalamsumon
 - 😄 Pronouns: Mr.
 - ⚡ Fun fact: coding.
--->
+
